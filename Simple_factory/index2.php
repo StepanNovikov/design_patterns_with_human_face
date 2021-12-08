@@ -1,5 +1,5 @@
 <?php 
-    namespace Simpla_factory;
+    namespace Simpl_factory;
 
     interface House 
     {
